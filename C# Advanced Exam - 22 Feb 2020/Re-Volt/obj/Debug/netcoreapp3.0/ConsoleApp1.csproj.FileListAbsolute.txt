@@ -1,0 +1,11 @@
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Soft uni\Аdvanced\Izpit\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
