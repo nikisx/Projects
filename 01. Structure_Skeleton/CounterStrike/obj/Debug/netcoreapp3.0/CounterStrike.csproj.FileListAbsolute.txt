@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\user\Desktop\01. Structure_Skeleton\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
