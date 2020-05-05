@@ -1,0 +1,11 @@
+D:\Soft uni\Regex\Vtora\bin\Debug\netcoreapp3.0\Vtora.exe
+D:\Soft uni\Regex\Vtora\bin\Debug\netcoreapp3.0\Vtora.deps.json
+D:\Soft uni\Regex\Vtora\bin\Debug\netcoreapp3.0\Vtora.runtimeconfig.json
+D:\Soft uni\Regex\Vtora\bin\Debug\netcoreapp3.0\Vtora.runtimeconfig.dev.json
+D:\Soft uni\Regex\Vtora\bin\Debug\netcoreapp3.0\Vtora.dll
+D:\Soft uni\Regex\Vtora\bin\Debug\netcoreapp3.0\Vtora.pdb
+D:\Soft uni\Regex\Vtora\obj\Debug\netcoreapp3.0\Vtora.csprojAssemblyReference.cache
+D:\Soft uni\Regex\Vtora\obj\Debug\netcoreapp3.0\Vtora.AssemblyInfoInputs.cache
+D:\Soft uni\Regex\Vtora\obj\Debug\netcoreapp3.0\Vtora.AssemblyInfo.cs
+D:\Soft uni\Regex\Vtora\obj\Debug\netcoreapp3.0\Vtora.dll
+D:\Soft uni\Regex\Vtora\obj\Debug\netcoreapp3.0\Vtora.pdb
