@@ -71,6 +71,12 @@ namespace ATM
         }
         public string Transfer(int amount, string username)
         {
+             var accToTransfer = this.accounts.Accounts.FirstOrDefault(a => a.Username == username);
+
+            if (!accounts.Accounts.Contains(accToTransfer))
+            {
+                throw new InvalidOperationException("There is not an account with that name!");
+            }
             
             if (index + 1 < accounts.Accounts.Count)
             {
@@ -83,7 +89,7 @@ namespace ATM
             }
 
             accounts.Accounts.ElementAt(index).Balance -= amount;
-
+            accToTransfer.Balance += amount;
          
             return "ok!";
         }
