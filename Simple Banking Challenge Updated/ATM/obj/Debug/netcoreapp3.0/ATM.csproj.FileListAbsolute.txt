@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\bin\Debug\netcoreapp3.0\ATM.exe
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\bin\Debug\netcoreapp3.0\ATM.deps.json
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\bin\Debug\netcoreapp3.0\ATM.runtimeconfig.json
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\bin\Debug\netcoreapp3.0\ATM.runtimeconfig.dev.json
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\bin\Debug\netcoreapp3.0\ATM.dll
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\bin\Debug\netcoreapp3.0\ATM.pdb
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\obj\Debug\netcoreapp3.0\ATM.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\obj\Debug\netcoreapp3.0\ATM.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\obj\Debug\netcoreapp3.0\ATM.AssemblyInfo.cs
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\obj\Debug\netcoreapp3.0\ATM.dll
+C:\Users\user\Desktop\Simple Banking Challenge\ATM\obj\Debug\netcoreapp3.0\ATM.pdb
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\bin\Debug\netcoreapp3.0\ATM.exe
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\bin\Debug\netcoreapp3.0\ATM.deps.json
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\bin\Debug\netcoreapp3.0\ATM.runtimeconfig.json
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\bin\Debug\netcoreapp3.0\ATM.runtimeconfig.dev.json
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\bin\Debug\netcoreapp3.0\ATM.dll
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\bin\Debug\netcoreapp3.0\ATM.pdb
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\obj\Debug\netcoreapp3.0\ATM.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\obj\Debug\netcoreapp3.0\ATM.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\obj\Debug\netcoreapp3.0\ATM.AssemblyInfo.cs
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\obj\Debug\netcoreapp3.0\ATM.dll
+C:\Users\user\Desktop\Simple Banking Challenge Multiple Accounts\ATM\obj\Debug\netcoreapp3.0\ATM.pdb
