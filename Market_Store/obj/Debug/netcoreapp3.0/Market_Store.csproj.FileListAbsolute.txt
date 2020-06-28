@@ -1,0 +1,11 @@
+D:\Soft uni\Аdvanced\Market_Store\obj\Debug\netcoreapp3.0\Market_Store.csprojAssemblyReference.cache
+D:\Soft uni\Аdvanced\Market_Store\obj\Debug\netcoreapp3.0\Market_Store.AssemblyInfoInputs.cache
+D:\Soft uni\Аdvanced\Market_Store\obj\Debug\netcoreapp3.0\Market_Store.AssemblyInfo.cs
+D:\Soft uni\Аdvanced\Market_Store\bin\Debug\netcoreapp3.0\Market_Store.exe
+D:\Soft uni\Аdvanced\Market_Store\bin\Debug\netcoreapp3.0\Market_Store.deps.json
+D:\Soft uni\Аdvanced\Market_Store\bin\Debug\netcoreapp3.0\Market_Store.runtimeconfig.json
+D:\Soft uni\Аdvanced\Market_Store\bin\Debug\netcoreapp3.0\Market_Store.runtimeconfig.dev.json
+D:\Soft uni\Аdvanced\Market_Store\bin\Debug\netcoreapp3.0\Market_Store.dll
+D:\Soft uni\Аdvanced\Market_Store\bin\Debug\netcoreapp3.0\Market_Store.pdb
+D:\Soft uni\Аdvanced\Market_Store\obj\Debug\netcoreapp3.0\Market_Store.dll
+D:\Soft uni\Аdvanced\Market_Store\obj\Debug\netcoreapp3.0\Market_Store.pdb
